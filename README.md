@@ -2,7 +2,7 @@
 
 A simple but versatile tool to convert MP3 files into M4B audiobook format, available as both a **command-line script** and a **graphical user interface (GUI)** application. Perfect for organizing podcasts, lectures, or audiobooks with chapter markers and metadata.
 
-![GUI Screenshot](https://github.com/dparedesi/MP3-to-M4B-converter/blob/6900f2ca704896b1ded4fc22b1e39c49bb1b714f/src/resources/screenshot.png)
+![GUI Screenshot](https://github.com/dparedesi/MP3-to-M4B-converter/blob/2d60f38fb1b37c4135ac23cb81d11cca526323ae/src/resources/screenshot.png)
 
 ## Features
 
