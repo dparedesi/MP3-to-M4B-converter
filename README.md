@@ -68,7 +68,7 @@ A simple but versatile tool to convert MP3 files into M4B audiobook format, avai
    python main.py
    ```
 *(Windows users: Double-click `main.py` if Python is associated with `.py` files)*
- 
+
 2. **Add Files**:
    - Click **"+ Add Media"** to select MP3 files (supports multi-select).
    - Drag-and-drop files directly into the table.
