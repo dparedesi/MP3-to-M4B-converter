@@ -301,7 +301,7 @@ class M4BFusionPro(QMainWindow):
         btn_row = QHBoxLayout()
         layout.addLayout(btn_row)
 
-        self.btn_add_media = QPushButton("+ Add Media")
+        self.btn_add_media = QPushButton("+ Add MP3s")
         self.btn_add_media.clicked.connect(self.on_add_media)
         btn_row.addWidget(self.btn_add_media)
 
