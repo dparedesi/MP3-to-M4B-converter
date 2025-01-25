@@ -23,9 +23,10 @@ A simple but versatile tool to convert MP3 files into M4B audiobook format, avai
 
 ## Prerequisites
 
-- **FFmpeg & FFprobe**: Required for both CLI and GUI.
-  - Download from [ffmpeg.org](https://ffmpeg.org/)
-  - Add to system PATH ([instructions](https://phoenixnap.com/kb/ffmpeg-windows)).
+- **FFmpeg & FFprobe**: Required for both CLI and GUI (must be installed system-wide)
+  - Windows: Download from [ffmpeg.org](https://ffmpeg.org/) and add to PATH
+  - macOS: brew install ffmpeg
+  - Ubuntu/Debian: sudo apt-get install ffmpeg
 - **Python 3.9+**
 
 ---
